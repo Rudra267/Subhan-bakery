@@ -20,7 +20,7 @@ const products = [
   { name: "MILK BREAD", newprice: 200.00, oldprice: 200.00, description: "Soft and creamy bread made with milk, perfect for a healthy breakfast." , image:"./Item/milkbread.jpg"},
   { name: "PLAIN SANDWICH BREAD", newprice: 200.00, oldprice: 200.00, description:"Classic sandwich bread ideal for daily use with any filling or spread.", image:"./Item/plainsandwishbread.jpg"},
   { name: "FRUIT BREAD", newprice: 200.00, oldprice: 200.00, description:"Sweet and colorful bread with bits of dried fruits — a delightful treat.", image:"./Item/fruitbread.jpg" },
-  { name: "DOUBLE KA MEETHA BREAD", newprice: 200.00, oldprice:200.00, description:"Special bread made for Hyderabadi dessert, perfect for sweet dishes.", image:"./item/doublekamitha.png" },
+  { name: "DOUBLE KA MEETHA BREAD", newprice: 200.00, oldprice:200.00, description:"Special bread made for Hyderabadi dessert, perfect for sweet dishes.", image:"./Item/doublekamitha.png" },
   { name: "POORI", newprice: 200.00, oldprice: 200.00, description:"Golden fried Indian bread, soft inside and crispy outside.", image:"./Item/poori.jpeg" },
   { name: "VICTORIAN RICH PLAIN CAKE", newprice: 200.00, oldprice:200.00, description:"Rich, buttery plain cake perfect for tea-time or light desserts.", image:"./Item/victoriaplaincake.jpg" },
   { name: "MUFFINS 6 CUPS", newprice: 200.00, oldprice:200.00, description:"Pack of six soft and spongy muffins to enjoy with family and friends.", image:"./Item/MUFFINS.jpg" },
