@@ -1,0 +1,274 @@
+/* Existing styles (no changes) */
+body {
+  margin: 0;
+  font-family: 'Segoe UI', sans-serif;
+  /* background: #000; */
+}
+
+.slider {
+  background: url('./bg-patterrn.png');
+  color: rgb(0, 0, 0);
+  max-height: 80vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.slider-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+  max-width: 1500px;
+  padding: 40px;
+  flex-wrap: wrap;
+}
+
+.arrow {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 40px;
+  color: rgb(103, 95, 95);
+  cursor: pointer;
+  padding: 10px;
+  user-select: none;
+  z-index: 10;
+}
+
+.arrow.left {
+  left: 20px;
+}
+
+.arrow.right {
+  right: 20px;
+}
+
+
+.pizza-slide {
+  /* flex-direction: column-reverse; */
+  gap: 40px;
+  display: none;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  width: 100%;
+  animation: fade 0.8s ease forwards;
+}
+
+.pizza-slide.active {
+  display: flex;
+}
+
+.pizza-image {
+  position: relative;
+  margin-right: 40px;
+  animation: slideInBottom 0.8s ease forwards;
+}
+
+.pizza-image img {
+  width: 500px;
+  height: auto;
+  filter: drop-shadow(0 20px 40px rgba(0, 0, 0, 0.3));
+  /* border-radius: 50%; */
+  /* box-shadow: 0 0 20px rgba(0, 0, 0, 0.4); */
+}
+
+.price-badge {
+  position: absolute;
+  bottom: 10px;
+  right: -20px;
+  background: #f1b900;
+  color: #422e00;
+  border-radius: 50%;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.pizza-info {
+  text-align: left;
+  max-width: 500px;
+  animation: slideInRight 0.8s ease forwards;
+}
+
+.pizza-info h1 {
+  font-size: 48px;
+  font-weight: 900;
+  line-height: 1.2;
+  margin: 0 0 10px;
+}
+
+.pizza-info p {
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+.pizza-info .line {
+  width: 60px;
+  height: 4px;
+  background-color: #f1b900;
+  margin: 10px 0 20px;
+}
+
+.order-btn {
+  background: transparent;
+  color: white;
+  border: 2px solid #f1b900;
+  padding: 10px 24px;
+  font-weight: bold;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.order-btn:hover {
+  background: #f1b900;
+  color: #b10000;
+}
+
+/* Animations */
+@keyframes slideInLeft {
+  from { opacity: 0; transform: translateX(-60px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes slideInRight {
+  from { opacity: 0; transform: translateX(60px); }
+  to { opacity: 1; transform: translateX(0); }
+}
+
+@keyframes fade {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideInBottom {
+  from { opacity: 0; transform: translateY(60px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+/* ----------------------- */
+/* ✅ Responsive Styling   */
+/* ----------------------- */
+@media (max-width: 1150px) {
+  .slider-container {
+    flex-direction: column;
+    padding: 20px;
+  }
+
+  .pizza-image {
+    margin: 0 auto 20px;
+  }
+
+  .pizza-image img {
+    width: 380px;
+  }
+
+  .pizza-info {
+    text-align: center;
+  }
+
+  .pizza-info h1 {
+    font-size: 32px;
+  }
+
+  .pizza-info p {
+    font-size: 14px;
+  }
+
+  .price-badge {
+    width: 60px;
+    height: 60px;
+    font-size: 14px;
+    bottom: 5px;
+    right: -10px;
+  }
+
+  .order-btn {
+    padding: 8px 20px;
+    font-size: 14px;
+  }
+
+  .arrow {
+    font-size: 30px;
+  }
+}
+
+@media (max-width: 480px) {
+  .pizza-image img {
+    width: 360px;
+  }
+
+  .pizza-info h1 {
+    font-size: 24px;
+  }
+
+  .order-btn {
+    padding: 6px 16px;
+  }
+
+  .price-badge {
+    font-size: 12px;
+    width: 50px;
+    height: 50px;
+  }
+
+  .arrow {
+    font-size: 24px;
+  }
+}
+
+.custom-wheat{
+    z-index: 99;
+    position: absolute;
+    top: 0%;
+    right: -5%;
+    animation: leafEntry 4s cubic-bezier(0.25, 1, 0.5, 1) forwards;
+}
+.custom-wheat > img{
+width: 400px;
+object-fit: cover;
+animation: leaf 2s cubic-bezier(0.25, 1, 0.5, 1) infinite alternate;
+}
+/* Wind-blown motion animation */
+
+@keyframes leafEntry {
+ 0% {
+    right: -100%;
+    opacity: 0;
+    rotate: 180deg;
+  }
+  100% {
+    rotate: 0;
+    right: -6%;
+    opacity: 1;
+  }
+}
+
+@keyframes leaf{
+    0%{
+        transform: translateY(-10px);
+        scale: 0.99;
+        rotate: 5deg;
+    }
+    100%{
+        transform: translateY(0px);
+        scale: 1;
+        rotate: 0deg;
+    }
+}
+
+@media (max-width:1000px){
+    .custom-wheat{
+        display: none;
+    }
+    
+}

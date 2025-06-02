@@ -28,7 +28,7 @@ const products = [
   { name: "PLAIN SPONGE CAKE", newprice: 200.00, oldprice:200.00, description:"Light and fluffy cake that melts in your mouth — simple and delicious.", image:"./Item/plainsandwishbread.jpg" },
   { name: "DONUT", newprice: 200.00, oldprice:200.00, description:"Classic donut with a soft center and sugar glaze — a sweet indulgence.", image:"./Item/donuts.jpg" },
   { name: "RED VELVET CUPCAKE", newprice: 200.00, oldprice:200.00, description:"Moist and rich red velvet cupcake topped with creamy frosting.", image:"./Item/redvelvetcake.jpg"},
-  { name: "BROWNIE CUPCAKE", newprice: 200.00, oldprice:200.00, description:"Deliciously fudgy chocolate brownie in a cupcake form — rich & satisfying.", image:"./item/browni.png" },
+  { name: "BROWNIE CUPCAKE", newprice: 200.00, oldprice:200.00, description:"Deliciously fudgy chocolate brownie in a cupcake form — rich & satisfying.", image:"./Item/browni.png" },
   { name: "DINNER ROLL", newprice: 200.00, oldprice:200.00, description:"Soft, buttery rolls — perfect to pair with soups, curries or as sliders.", image:"./Item/dinnerroll.jpg" },
   { name: "SHEERMOL", newprice: 200.00, oldprice:200.00, description:"Traditional rich and soft bread, mildly sweet, perfect for festive meals.", image:"./Item/Sheermol.jpg" },
   { name: "DILKHUSHH", newprice: 200.00, oldprice:200.00, description:"Sweet coconut-filled puff pastry that brings joy with every bite.", image:"./Item/dilkhush.jpg" },

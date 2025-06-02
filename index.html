@@ -34,6 +34,7 @@
         <link rel="stylesheet" type="text/css" href="css/slick.css">
         <!-- style css -->
         <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="stylesheet" href="test.css">
 
     </head>
     <body>
@@ -377,36 +378,83 @@
                     </div>
                 </div>
             </section> -->
-           
-<div class="slider" style="      background-image: url(./bg-patterrn.png) !important;
-      background-position: center !important;
-      background-repeat: none !important;" onmousemove="moveEffect(event)" onmouseleave="resetEffect(event)">
-  <div class="slides" id="slidesContainer">
-    <div class="slide" >
-      <div class="slide-content">
-        <img src="./pngwing.png" alt="Coffee"> 
-          
-                                            <h2 class="e1">The bread and butter</h2>
-  </div>
-      
-       
+
+              <section class="slider">
+                 <div class="custom-wheat">
+            <img src="./Wheat1.png" alt="">
+           </div>
+    <div class="slider-container">
+                  
+
+      <div class="arrow left" onclick="changeSlide(-1)">&#10094;</div>
+
+      <div class="pizza-slide active">
+        <div class="pizza-image animate-left">
+          <img src="./3.png" alt="Pizza">
+          <!-- <div class="price-badge">
+            <strong>32.75</strong><br><span>USD</span>
+          </div> -->
+        </div>
+        <div class="pizza-info animate-right">
+          <h1>Freshly Baked Goodness in Every Bite</h1>
+          <p>Crafted with love using traditional recipes, our artisanal breads bring warmth and flavor to your table. Perfectly crusty, irresistibly soft.</p>
+          <div class="line"></div>
+          <!-- <button class="order-btn">ORDER NOW</button> -->
+        </div>
       </div>
-    </div>
-    <div class="slide" onmousemove="moveEffect(event)" onmouseleave="resetEffect(event)">
-      <div class="slide-content">
-        <img src="./2.png" alt="Cafe">
-        <h2>Cafe Vibes <br>Enjoy a perfect ambiance with <br> freshly brewed coffee.</h2>
-    
+
+      <!-- Add more slides below as needed -->
+      <div class="pizza-slide">
+        <div class="pizza-image animate-left">
+          <img src="./2.png" alt="Pizza 2">
+          <!-- <div class="price-badge">
+            <strong>29.50</strong><br><span>USD</span>
+          </div> -->
+        </div>
+        <div class="pizza-info animate-right">
+          <h1>From Our Oven to Your Home</h1>
+          <p>Enjoy the rich aroma and taste of freshly baked breads handcrafted daily with the finest ingredients for you and your family.</p>
+          <div class="line"></div>
+          <!-- <button class="order-btn">ORDER NOW</button> -->
+        </div>
       </div>
-    </div>
-    <div class="slide" onmousemove="moveEffect(event)" onmouseleave="resetEffect(event)">
-      <div class="slide-content">
-        <img src="./3.png" alt="Pastry">
-        <h2>Sweet Moments <br> Taste the buttery goodness <br> of our fresh pastries.</h2>
-  
+
+
+      <div class="pizza-slide">
+        <div class="pizza-image animate-left">
+          <img src="./1.png" alt="Pizza 2">
+          <!-- <div class="price-badge">
+            <strong>29.50</strong><br><span>USD</span>
+          </div> -->
+        </div>
+        <div class="pizza-info animate-right">
+          <h1>From Our Oven to Your Home</h1>
+          <p>Enjoy the rich aroma and taste of freshly baked breads handcrafted daily with the finest ingredients for you and your family.</p>
+          <div class="line"></div>
+          <!-- <button class="order-btn">ORDER NOW</button> -->
+        </div>
       </div>
+
+      <div class="pizza-slide">
+        <div class="pizza-image animate-left">
+          <img src="./4.png" alt="Pizza 2">
+          <!-- <div class="price-badge">
+            <strong>29.50</strong><br><span>USD</span>
+          </div> -->
+        </div>
+        <div class="pizza-info animate-right">
+          <h1>From Our Oven to Your Home</h1>
+          <p>Enjoy the rich aroma and taste of freshly baked breads handcrafted daily with the finest ingredients for you and your family.</p>
+          <div class="line"></div>
+          <!-- <button class="order-btn">ORDER NOW</button> -->
+        </div>
+      </div>
+
+      <div class="arrow right" onclick="changeSlide(1)">&#10095;</div>
+
     </div>
-  </div>
+  </section>
+
 
   <!-- <div class="controls">
     <button onclick="prevSlide()">Prev</button>
@@ -3822,6 +3870,7 @@
         <!-- back-to-top end -->
          <!-- <script src="./js/product.js"></script> -->
 
+
           <script src="./js/animation.js"></script>
         <!-- jquery -->
         <script src="js/jquery-3.6.3.min.js"></script>
@@ -3834,6 +3883,7 @@
         <script src="js/owl.carousel.min.js"></script>
         <!-- swiper-bundle js -->
         <script src="js/swiper-bundle.min.js"></script>
+        
         <!-- slick js -->
         <script src="js/slick.min.js"></script>
         <!-- waypoints js -->
@@ -3842,6 +3892,28 @@
         <script src="js/counter.js"></script>
         <!-- main js -->
         <script src="js/main.js"></script>
+
+        <script>
+            let currentSlide = 0;
+const slides = document.querySelectorAll('.pizza-slide');
+
+function showSlide(index) {
+  slides.forEach((slide, i) => {
+    slide.classList.remove('active');
+    if (i === index) {
+      slide.classList.add('active');
+    }
+  });
+}
+
+function changeSlide(direction) {
+  currentSlide += direction;
+  if (currentSlide >= slides.length) currentSlide = 0;
+  if (currentSlide < 0) currentSlide = slides.length - 1;
+  showSlide(currentSlide);
+}
+
+        </script>
     </body>
 
 <!-- Mirrored from spacingtech.com/html/Subhan Bakery/Subhan Bakery-ltr/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 May 2025 09:47:59 GMT -->
