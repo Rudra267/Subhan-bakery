@@ -34,6 +34,7 @@
         <link rel="stylesheet" type="text/css" href="css/slick.css">
         <!-- style css -->
         <link rel="stylesheet" type="text/css" href="css/style.css">
+
     </head>
     <body>
         <!-- top-notification start -->
@@ -320,8 +321,8 @@
         <!-- mobile-menu end -->
 
         <main>
-            <!-- home-slider start -->
-            <section class="slider-content">
+            <!-- home-slider slider start -->
+            <!-- <section class="slider-content">
                 <div class="home-slider owl-carousel owl-theme" id="home-slider">
                     <div class="item">
                         <div class="slide-image">
@@ -333,7 +334,7 @@
                                         <div class="slider-text-info slider-content-center slider-text-center">
                                             <span class="sub-title e1">Online backery store</span>
                                             <h2 class="e1">Delicious  bakery’s</h2>
-                                            <!-- <a href="product.html" class="btn btn-style e1">Shop now</a> -->
+                                         
                                         </div>
                                     </div>
                                 </div>
@@ -350,7 +351,7 @@
                                         <div class="slider-text-info slider-content-center slider-text-center">
                                             <span class="sub-title e1">Fresh bakery item</span>
                                             <h2 class="e1">The bread and butter</h2>
-                                            <!-- <a href="product.html" class="btn btn-style e1">Shop now</a> -->
+                                        
                                         </div>
                                     </div>
                                 </div>
@@ -367,7 +368,7 @@
                                         <div class="slider-text-info slider-content-center slider-text-center">
                                             <span class="sub-title e1">Big offer 50% off</span>
                                             <h2 class="e1">We make life sweet</h2>
-                                            <!-- <a href="product.html" class="btn btn-style e1">Shop now</a> -->
+                                         
                                         </div>
                                     </div>
                                 </div>
@@ -375,7 +376,43 @@
                         </div>
                     </div>
                 </div>
-            </section>
+            </section> -->
+           
+<div class="slider" style="      background-image: url(./bg-patterrn.png) !important;
+      background-position: center !important;
+      background-repeat: none !important;" onmousemove="moveEffect(event)" onmouseleave="resetEffect(event)">
+  <div class="slides" id="slidesContainer">
+    <div class="slide" >
+      <div class="slide-content">
+        <img src="./pngwing.png" alt="Coffee"> 
+          
+                                            <h2 class="e1">The bread and butter</h2>
+  </div>
+      
+       
+      </div>
+    </div>
+    <div class="slide" onmousemove="moveEffect(event)" onmouseleave="resetEffect(event)">
+      <div class="slide-content">
+        <img src="./2.png" alt="Cafe">
+        <h2>Cafe Vibes <br>Enjoy a perfect ambiance with <br> freshly brewed coffee.</h2>
+    
+      </div>
+    </div>
+    <div class="slide" onmousemove="moveEffect(event)" onmouseleave="resetEffect(event)">
+      <div class="slide-content">
+        <img src="./3.png" alt="Pastry">
+        <h2>Sweet Moments <br> Taste the buttery goodness <br> of our fresh pastries.</h2>
+  
+      </div>
+    </div>
+  </div>
+
+  <!-- <div class="controls">
+    <button onclick="prevSlide()">Prev</button>
+    <button onclick="nextSlide()">Next</button>
+  </div> -->
+</div>
             <!-- home-slider end -->
             <!-- custom-text start -->
             <section class="custom-text">
@@ -3784,6 +3821,7 @@
         </a>
         <!-- back-to-top end -->
          <!-- <script src="./js/product.js"></script> -->
+
           <script src="./js/animation.js"></script>
         <!-- jquery -->
         <script src="js/jquery-3.6.3.min.js"></script>
