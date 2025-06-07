@@ -1,0 +1,1930 @@
+            <section class="special-category section-ptb">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="collection-category">
+                                <div class="section-capture">
+                                    <div class="section-title">
+                                        <span class="sub-title">Breads every day</span>
+                                        <h2><span>Avoilable products</span></h2>
+                                    </div>
+                                </div>
+                            
+                                <div class="collection-wrap">
+                                    <div class="collection-slider swiper" id="pro-template">
+                                        <div class="swiper-wrapper" id="targetSlide">
+                                            <div class="swiper-slide">
+                                              
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                  
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=0" class="pro-img">
+                                                            <img src="./Item/fruit_bis.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/fruit_bis.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                      
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        
+                                                        <h6><a href="product-template2.html?data=0">FRUIT BIS 400GM</a></h6>
+                                                    
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        
+                                                    </div>
+                                                   
+                                                </div>
+                                                
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap"  style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=1" class="pro-img">
+                                                            <img src="./Item/KHARA_BIS.JPG" class="img-fluid img1" alt="p-3">
+                                                            <img src="./Item/KHARA_BIS.JPG" class="img-fluid img2" alt="p-3">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        <!-- <div class="product-action">
+                                                            <a href="wishlist-product.html" class="wishlist-product">
+                                                                <span class="tooltip-text">Wishlist</span>
+                                                                <span class="wishlist-icon"><i class="feather-heart"></i></span>
+                                                            </a>
+                                                            <a href="javascript:void(0)" class="add-to-cart">
+                                                                <span class="tooltip-text">Add to cart</span>
+                                                                <span class="cart-icon"><i class="feather-shopping-bag"></i></span>
+                                                            </a>
+                                                            <a href="#quickview" class="quick-view" data-bs-toggle="modal" data-bs-target="#quickview">
+                                                                <span class="tooltip-text">Quickview</span>
+                                                                <span class="quickview-icon"><i class="feather-eye"></i></span>
+                                                            </a>
+                                                        </div> -->
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="fas fa-star"></i>
+                                                                <i class="fas fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=1">KHARA BIS 500GM </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        <!-- <div class="product-action">
+                                                            <a href="wishlist-product.html" class="wishlist-product">
+                                                                <span class="tooltip-text">Wishlist</span>
+                                                                <span class="wishlist-icon"><i class="feather-heart"></i></span>
+                                                            </a>
+                                                            <a href="javascript:void(0)" class="add-to-cart">
+                                                                <span class="tooltip-text">Add to cart</span>
+                                                                <span class="cart-icon"><i class="feather-shopping-bag"></i></span>
+                                                            </a>
+                                                            <a href="#quickview" class="quick-view" data-bs-toggle="modal" data-bs-target="#quickview">
+                                                                <span class="tooltip-text">Quickview</span>
+                                                                <span class="quickview-icon"><i class="feather-eye"></i></span>
+                                                            </a>
+                                                        </div> -->
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=2" class="pro-img">
+                                                            <img src="./Item/chandbis.JPG" class="img-fluid img1" alt="p-5">
+                                                            <img src="./Item/chandbis.JPG" class="img-fluid img2" alt="p-6">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        <!-- <div class="product-action">
+                                                            <a href="wishlist-product.html" class="wishlist-product">
+                                                                <span class="tooltip-text">Wishlist</span>
+                                                                <span class="wishlist-icon"><i class="feather-heart"></i></span>
+                                                            </a>
+                                                            <a href="javascript:void(0)" class="add-to-cart">
+                                                                <span class="tooltip-text">Add to cart</span>
+                                                                <span class="cart-icon"><i class="feather-shopping-bag"></i></span>
+                                                            </a>
+                                                            <a href="#quickview" class="quick-view" data-bs-toggle="modal" data-bs-target="#quickview">
+                                                                <span class="tooltip-text">Quickview</span>
+                                                                <span class="quickview-icon"><i class="feather-eye"></i></span>
+                                                            </a>
+                                                        </div> -->
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=2">CHAND BIS 400GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.000</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        <!-- <div class="product-action">
+                                                            <a href="wishlist-product.html" class="wishlist-product">
+                                                                <span class="tooltip-text">Wishlist</span>
+                                                                <span class="wishlist-icon"><i class="feather-heart"></i></span>
+                                                            </a>
+                                                            <a href="javascript:void(0)" class="add-to-cart">
+                                                                <span class="tooltip-text">Add to cart</span>
+                                                                <span class="cart-icon"><i class="feather-shopping-bag"></i></span>
+                                                            </a>
+                                                            <a href="#quickview" class="quick-view" data-bs-toggle="modal" data-bs-target="#quickview">
+                                                                <span class="tooltip-text">Quickview</span>
+                                                                <span class="quickview-icon"><i class="feather-eye"></i></span>
+                                                            </a>
+                                                        </div> -->
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=4" class="pro-img">
+                                                            <img src="./Item/oatsbis.JPG" class="img-fluid img1" alt="p-7">
+                                                            <img src="./Item/oatsbis.JPG" class="img-fluid img2" alt="p-8">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=4">OATS BIS 400GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=5" class="pro-img">
+                                                            <img src="./Item/fruitcakerusk.JPG" class="img-fluid img1" alt="p-9">
+                                                            <img src="./Item/fruitcakerusk.JPG" class="img-fluid img2" alt="p-10">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=5">FRUITS CAKE RUSK 400/200GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap"  style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=6" class="pro-img">
+                                                            <img src="./Item/kaju.JPG" class="img-fluid img1" alt="p-11">
+                                                            <img src="./Item/kaju.JPG" class="img-fluid img2" alt="p-12">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=6">KAJU 400GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap"  style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=7" class="pro-img">
+                                                            <img src="./Item/choclatekaju.JPG" class="img-fluid img1" alt="p-13">
+                                                            <img src="./Item/choclatekaju.JPG" class="img-fluid img2" alt="p-14">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=7">CHOCOLATE KAJU 400/200GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=8" class="pro-img">
+                                                            <img src="./Item/dryfruits.JPG" class="img-fluid img1" alt="p-15">
+                                                            <img src="./Item/dryfruits.JPG" class="img-fluid img2" alt="p-16">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=8">DRY FRUIT 400/200GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=9" class="pro-img">
+                                                            <img src="./Item/kajunuts.JPG" class="img-fluid img1" alt="p-17">
+                                                            <img src="./Item/kajunuts.JPG" class="img-fluid img2" alt="p-18">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=9">CASHEW NUTS 400GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap"  style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=10" class="pro-img">
+                                                            <img src="./Item/milkrusk.JPG" class="img-fluid img1" alt="p-19">
+                                                            <img src="./Item/milkrusk.JPG" class="img-fluid img2" alt="p-20">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=10">MILK RUSK [TOAST]: 500GM sealed </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap"  style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=11" class="pro-img">
+                                                            <img src="./Item/roat.jpg" class="img-fluid img1" alt="p-21">
+                                                            <img src="./Item/roat.jpg" class="img-fluid img2" alt="p-22">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=11">Roat 500GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                     
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=12" class="pro-img">
+                                                            <img src="./Item/straberry.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/straberry.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=12">STRAWBERRY 400GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=13" class="pro-img">
+                                                            <img src="./Item/walnuts.JPG" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/walnuts.JPG" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=13">WALNUTS 400GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=14" class="pro-img">
+                                                            <img src="./Item/Coconut_Macaroons.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/Coconut_Macaroons.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=14">COCONUT MACAROONS 400GM </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=15" class="pro-img">
+                                                            <img src="./Item/plum.jpeg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/plum.jpeg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=15">PLUM CAKE 380/500GM </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=16" class="pro-img">
+                                                            <img src="./Item/kajunuts.JPG" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/kajunuts.JPG" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=16">JAM KAJU 400GM </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=17" class="pro-img">
+                                                            <img src="./Item/AssortedCookie.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/AssortedCookie.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=17">ASSORTED COOKIES – BIG </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=18" class="pro-img">
+                                                            <img src="./Item/AssortedCookie.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/AssortedCookie.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=18">ASSORTED COOKIES DRY</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=19" class="pro-img">
+                                                            <img src="./Item/milkbread.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/milkbread.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=19">MILK BREAD </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=20" class="pro-img">
+                                                            <img src="./Item/plainsandwishbread.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/plainsandwishbread.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=20">PLAIN SANDWICH BREAD </a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                           
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=21" class="pro-img">
+                                                            <img src="./Item/fruitbread.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/fruitbread.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=21">FRUIT BREAD</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=22" class="pro-img">
+                                                            <img src="./Item/doublekamitha.png" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/doublekamitha.png" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=23">DOUBLE KA MEETHA BREAD</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                     
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=23" class="pro-img">
+                                                            <img src="./Item/poori.jpeg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/poori.jpeg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=23">POORI</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                     
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=24" class="pro-img">
+                                                            <img src="./Item/victoriaplaincake.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/victoriaplaincake.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=24">VICTORIAN RICH PLAIN CAKE</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=25" class="pro-img">
+                                                            <img src="./Item/MUFFINS.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/MUFFINS.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=25">MUFFINS 6 CUPS</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=26" class="pro-img">
+                                                            <img src="./Item/sweetpuf.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/sweetpuf.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=26">SWEET PUFF</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=27" class="pro-img">
+                                                            <img src="./Item/plainsandwishbread.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/plainsandwishbread.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=27">PLAIN SPONGE CAKE</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=28" class="pro-img">
+                                                            <img src="./Item/donuts.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/donuts.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=28">DONUT</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                            
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=29" class="pro-img">
+                                                            <img src="./Item/redvelvetcake.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/redvelvetcake.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=29">RED VELVET CUPCAKE</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                                                                        
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=30" class="pro-img">
+                                                            <img src="./Item/browni.png" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/browni.png" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=32">BROWNIE CUPCAKE</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                                                                                                                    
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=31" class="pro-img">
+                                                            <img src="./Item/dinnerroll.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/dinnerroll.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=32">DINNER ROLL</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                                                                                                                                                                
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=32" class="pro-img">
+                                                            <img src="./Item/Sheermol.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/Sheermol.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=32">SHEERMOL</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                        
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                                                                                                                                                                                                            
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=33" class="pro-img">
+                                                            <img src="./Item/dilkhush.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/dilkhush.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=33">DILKHUSHH</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+
+                                                                                                                                                                                                                                                                        
+                                             <div class="swiper-slide">
+                                                <!-- product start -->
+                                                <div class="single-product-wrap" style="background-color: rgba(222, 222, 222, 0.394);">
+                                                    <!-- product-img start -->
+                                                    <div class="product-image">
+                                                        <a href="product-template2.html?data=34" class="pro-img">
+                                                            <img src="./Item/osmania.jpg" class="img-fluid img1" alt="p-1">
+                                                            <img src="./Item/osmania.jpg" class="img-fluid img2" alt="p-2">
+                                                        </a>
+                                                        <!-- product-label start -->
+                                                        <!-- <div class="product-label">
+                                                            <span class="new-sale-title">New</span>
+                                                        </div> -->
+                                                        <!-- product-label end -->
+                                                        <!-- product-action start -->
+                                                      
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-img end -->
+                                                    <!-- product-content start -->
+                                                    <div class="product-content">
+                                                        <!-- product-rating start-->
+                                                        <div class="product-rating">
+                                                            <span class="star-rating">
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                                <i class="far fa-star"></i>
+                                                            </span>
+                                                        </div>
+                                                        <!-- product-rating end -->
+                                                        <!-- product-title start -->
+                                                        <h6><a href="product-template2.html?data=34">OSMANIA BISCUIT 500/250GM</a></h6>
+                                                        <!-- product-title end -->
+                                                        <!-- product-price start -->
+                                                        <div class="price-box">
+                                                            <span class="new-price">₹200.00</span>
+                                                            <span class="old-price">₹200.00</span>
+                                                        </div>
+                                                        <!-- product-price end -->
+                                                        <!-- product-action start -->
+                                                       
+                                                        <!-- product-action end -->
+                                                    </div>
+                                                    <!-- product-content end -->
+                                                </div>
+                                                <!-- product end -->
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+
+
+                        <!-- testimonial start -->
+            <section class="testimonial-area section-ptb">
+                <div class="container">
+                    <div class="row">
+                        <div class="col">
+                            <div class="section-capture">
+                                <div class="section-title">
+                                    <span class="sub-title">Best positive reviews</span>
+                                    <h2><span>Customer love</span></h2>
+                                </div>
+                            </div>
+                            <div class="testi-slider">
+                                <div class="product-detail-slider">
+                                    <div class="pro-slider">
+                                        <div class="slider-for slick-slider">
+                                            <div class="slick-slide">
+                                                <div class="testi-content">
+                                                    <span class="quote-icon">
+                                                        <img src="img/logo/quote-icon.png" class="img-fluid" alt="quote-icon">
+                                                    </span>
+                                                    <div class="testi-desc">
+                                                        <p>Never disappointed when i stop at patti’s we’ve got birthday cakes, cupcakes, cookies, pepperoni rolls and novelty cakes there over the years, it’s all fresh and delicious.</p>
+                                                    </div>
+                                                    <div class="testi-review">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="testi-content">
+                                                    <span class="quote-icon">
+                                                        <img src="img/logo/quote-icon.png" class="img-fluid" alt="quote-icon">
+                                                    </span>
+                                                    <div class="testi-desc">
+                                                        <p>Never disappointed when i stop at patti’s we’ve got birthday cakes, cupcakes, cookies, pepperoni rolls and novelty cakes there over the years, it’s all fresh and delicious.</p>
+                                                    </div>
+                                                    <div class="testi-review">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="testi-content">
+                                                    <span class="quote-icon">
+                                                        <img src="img/logo/quote-icon.png" class="img-fluid" alt="quote-icon">
+                                                    </span>
+                                                    <div class="testi-desc">
+                                                        <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.</p>
+                                                    </div>
+                                                    <div class="testi-review">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="testi-content">
+                                                    <span class="quote-icon">
+                                                        <img src="img/logo/quote-icon.png" class="img-fluid" alt="quote-icon">
+                                                    </span>
+                                                    <div class="testi-desc">
+                                                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi.</p>
+                                                    </div>
+                                                    <div class="testi-review">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="testi-content">
+                                                    <span class="quote-icon">
+                                                        <img src="img/logo/quote-icon.png" class="img-fluid" alt="quote-icon">
+                                                    </span>
+                                                    <div class="testi-desc">
+                                                        <p>specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised.</p>
+                                                    </div>
+                                                    <div class="testi-review">
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                        <i class="fa fa-star"></i>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="slider-nav slick-slider">
+                                            <div class="slick-slide">
+                                                <div class="author-info">
+                                                    <div class="testi-img">
+                                                        <img src="img/testimonial/testi-1.jpg" class="img-fluid" alt="testi-1">
+                                                    </div>
+                                                    <div class="author-title">
+                                                        <h6>Anna domino</h6>
+                                                        <span>Store customer</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="author-info">
+                                                    <div class="testi-img">
+                                                        <img src="img/testimonial/testi-2.jpg" class="img-fluid" alt="testi-2">
+                                                    </div>
+                                                    <div class="author-title">
+                                                        <h6>Miranda joy</h6>
+                                                        <span>Store customer</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="author-info">
+                                                    <div class="testi-img">
+                                                        <img src="img/testimonial/testi-3.jpg" class="img-fluid" alt="testi-3">
+                                                    </div>
+                                                    <div class="author-title">
+                                                        <h6>Ventila tomy</h6>
+                                                        <span>Store customer</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="author-info">
+                                                    <div class="testi-img">
+                                                        <img src="img/testimonial/testi-2.jpg" class="img-fluid" alt="testi-3">
+                                                    </div>
+                                                    <div class="author-title">
+                                                        <h6>Jenson khen</h6>
+                                                        <span>Store customer</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="slick-slide">
+                                                <div class="author-info">
+                                                    <div class="testi-img">
+                                                        <img src="img/testimonial/testi-3.jpg" class="img-fluid" alt="testi-3">
+                                                    </div>
+                                                    <div class="author-title">
+                                                        <h6>Anna domino</h6>
+                                                        <span>Store customer</span>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- testimonial end -->
