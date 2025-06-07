@@ -379,7 +379,7 @@
                 </div>
             </section> -->
 
-              <section class="slider">
+  <section class="slider">
                  <div class="custom-wheat">
             <img src="./Wheat1.png" alt="">
            </div>
@@ -453,6 +453,13 @@
       <div class="arrow right" onclick="changeSlide(1)">&#10095;</div>
 
     </div>
+
+    <div class="dots-container">
+  <span class="dot active" onclick="goToSlide(0)"></span>
+  <span class="dot" onclick="goToSlide(1)"></span>
+  <span class="dot" onclick="goToSlide(2)"></span>
+  <span class="dot" onclick="goToSlide(3)"></span>
+</div>
   </section>
 
 
@@ -3893,7 +3900,7 @@
         <!-- main js -->
         <script src="js/main.js"></script>
 
-        <script>
+        <!-- <script>
             let currentSlide = 0;
 const slides = document.querySelectorAll('.pizza-slide');
 
@@ -3913,7 +3920,43 @@ function changeSlide(direction) {
   showSlide(currentSlide);
 }
 
+        </script> -->
+  
+        <script>
+
+
+let currentSlide = 0;
+const slides = document.querySelectorAll('.pizza-slide');
+const dots = document.querySelectorAll('.dot');
+
+function showSlide(index) {
+  slides.forEach((slide, i) => {
+    slide.classList.remove('active');
+    if (i === index) slide.classList.add('active');
+  });
+
+  dots.forEach((dot, i) => {
+    dot.classList.remove('active');
+    if (i === index) dot.classList.add('active');
+  });
+}
+
+function changeSlide(direction) {
+  currentSlide += direction;
+  if (currentSlide >= slides.length) currentSlide = 0;
+  if (currentSlide < 0) currentSlide = slides.length - 1;
+  showSlide(currentSlide);
+}
+
+function goToSlide(index) {
+  currentSlide = index;
+  showSlide(currentSlide);
+}
+
+
+
         </script>
+  
     </body>
 
 <!-- Mirrored from spacingtech.com/html/Subhan Bakery/Subhan Bakery-ltr/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 26 May 2025 09:47:59 GMT -->
