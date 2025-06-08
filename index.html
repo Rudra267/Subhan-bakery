@@ -380,7 +380,7 @@
             </section> -->
 
   <section class="slider">
-                 <div class="custom-wheat">
+           <div class="custom-wheat">
             <img src="./Wheat1.png" alt="">
            </div>
     <div class="slider-container">
@@ -390,7 +390,7 @@
 
       <div class="pizza-slide active">
         <div class="pizza-image animate-left">
-          <img src="./3.png" alt="Pizza">
+          <img src="./3.png" alt="Pizza" class="images">
           <!-- <div class="price-badge">
             <strong>32.75</strong><br><span>USD</span>
           </div> -->
@@ -406,7 +406,7 @@
       <!-- Add more slides below as needed -->
       <div class="pizza-slide">
         <div class="pizza-image animate-left">
-          <img src="./2.png" alt="Pizza 2">
+          <img src="./2.png" alt="Pizza 2" class="images">
           <!-- <div class="price-badge">
             <strong>29.50</strong><br><span>USD</span>
           </div> -->
@@ -422,7 +422,7 @@
 
       <div class="pizza-slide">
         <div class="pizza-image animate-left">
-          <img src="./1.png" alt="Pizza 2">
+          <img src="./1.png" alt="Pizza 2" class="images">
           <!-- <div class="price-badge">
             <strong>29.50</strong><br><span>USD</span>
           </div> -->
@@ -437,7 +437,7 @@
 
       <div class="pizza-slide">
         <div class="pizza-image animate-left">
-          <img src="./4.png" alt="Pizza 2">
+          <img src="./4.png" alt="Pizza 2" class="images">
           <!-- <div class="price-badge">
             <strong>29.50</strong><br><span>USD</span>
           </div> -->
@@ -2062,6 +2062,9 @@ function changeSlide(direction) {
         <script>
 
 
+
+
+
 let currentSlide = 0;
 const slides = document.querySelectorAll('.pizza-slide');
 const dots = document.querySelectorAll('.dot');
@@ -2092,7 +2095,80 @@ function goToSlide(index) {
 
 
 
+
+
+
+
         </script>
+
+
+<!-- slider moving -->
+
+    <script>
+        // Select all images using querySelectorAll('.images')
+        const imageElements = document.querySelectorAll('.images');
+
+        imageElements.forEach(imageElement => {
+            const img = imageElement.querySelector('img');
+            const floatingElement = imageElement.querySelector('.floating-element');
+            const title = imageElement.querySelector('.image-title');
+
+            imageElement.addEventListener('mousemove', (e) => {
+                const rect = imageElement.getBoundingClientRect();
+                const x = (e.clientX - rect.left - rect.width / 2) / 15;
+                const y = (e.clientY - rect.top - rect.height / 2) / 15;
+
+                // 3D tilt effect for the main container
+                imageElement.style.transform = `perspective(1000px) rotateY(${x}deg) rotateX(${-y}deg) translateZ(30px)`;
+                
+                // Move floating element in opposite direction
+                if (floatingElement) {
+                    floatingElement.style.transform = `translate(${-x}px, ${-y}px) rotate(${x * 2}deg)`;
+                }
+
+                // Slight movement for title
+                if (title) {
+                    title.style.transform = `translateX(-50%) translateY(${y * 0.5}px)`;
+                }
+            });
+
+            imageElement.addEventListener('mouseleave', () => {
+                // Reset all transforms
+                imageElement.style.transform = 'perspective(1000px) rotateY(0deg) rotateX(0deg) translateZ(0px)';
+                
+                if (floatingElement) {
+                    floatingElement.style.transform = 'translate(0px, 0px) rotate(0deg)';
+                }
+
+                if (title) {
+                    title.style.transform = 'translateX(-50%) translateY(0px)';
+                }
+            });
+
+            // Faster transition on hover
+            imageElement.addEventListener('mouseenter', () => {
+                imageElement.style.transition = 'transform 0.1s ease';
+                if (floatingElement) {
+                    floatingElement.style.transition = 'transform 0.1s ease';
+                }
+                if (title) {
+                    title.style.transition = 'transform 0.1s ease';
+                }
+            });
+
+            imageElement.addEventListener('mouseleave', () => {
+                imageElement.style.transition = 'transform 0.3s ease';
+                if (floatingElement) {
+                    floatingElement.style.transition = 'transform 0.3s ease';
+                }
+                if (title) {
+                    title.style.transition = 'transform 0.3s ease';
+                }
+            });
+        });
+
+        console.log(`Found ${imageElements.length} images with class 'images'`);
+    </script>
   
 <!-- parallex -->
       <script>

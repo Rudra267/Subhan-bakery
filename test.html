@@ -1,175 +1,175 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Food Menu</title>
-  <style>
-    body {
-      margin: 0;
-      padding: 0;
-      background: #006c74 url('./bg-texture.png');
-      background-size: cover;
-      font-family: 'Pacifico', cursive;
-    }
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>4 Images with 3D Hover Animation</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
 
-    .menu-container {
-      display: grid;
-      grid-template-columns: repeat(3, 1fr);
-      gap: 60px;
-      justify-items: center;
-      padding: 80px 40px;
-    }
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 2rem;
+        }
 
-    .menu-item {
-      text-align: center;
-      position: relative;
-    }
+        .container {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 3rem;
+            max-width: 1000px;
+        }
 
-    .circle-icon {
-      width: 180px;
-      height: 180px;
-      background: radial-gradient(circle at center, #1f1f1f 60%, #000000 100%);
-      border-radius: 50%;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      box-shadow:
-        inset 2px 2px 4px rgba(255,255,255,0.1),
-        inset -2px -2px 4px rgba(0,0,0,0.4),
-        0 0 25px rgba(255, 255, 255, 0.1),
-        0 0 30px rgba(255, 255, 255, 0.3); /* Shine effect */
-      position: relative;
-      overflow: hidden;
-    }
+        .images {
+            position: relative;
+            cursor: pointer;
+            transition: transform 0.3s ease;
+            transform-style: preserve-3d;
+        }
 
-    .circle-icon::after {
-      content: "";
-      position: absolute;
-      top: 0;
-      left: 0;
-      width: 100%;
-      height: 100%;
-      border-radius: 50%;
-      background: radial-gradient(circle at top left, rgba(255,255,255,0.2), transparent);
-      z-index: 0;
-    }
+        .images img {
+            width: 100%;
+            max-width: 400px;
+            height: 300px;
+            object-fit: cover;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+            transition: all 0.3s ease;
+        }
 
-    .circle-icon img {
-      width: 80px;
-      height: auto;
-      filter: invert(100%);
-      z-index: 1;
-    }
+        .floating-element {
+            position: absolute;
+            width: 60px;
+            height: 60px;
+            border: 3px solid rgba(255, 255, 255, 0.3);
+            border-radius: 50%;
+            top: -20px;
+            right: -20px;
+            transition: transform 0.3s ease;
+        }
 
-    .menu-title {
-      color: white;
-      font-size: 1.4rem;
-      margin-top: 15px;
-    }
+        .image-title {
+            position: absolute;
+            bottom: -50px;
+            left: 50%;
+            transform: translateX(-50%);
+            color: white;
+            font-size: 1.2rem;
+            font-weight: bold;
+            text-align: center;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 0.5rem 1rem;
+            border-radius: 8px;
+            transition: transform 0.3s ease;
+        }
 
-    .section {
-      text-align: center;
-      padding: 60px 20px;
-      background-color: #fff;
-    }
-
-    .section h2 {
-      font-size: 2rem;
-      letter-spacing: 4px;
-      color: #333;
-      margin-bottom: 20px;
-    }
-
-    .section p {
-      font-size: 1rem;
-      color: #888;
-      max-width: 800px;
-      margin: 0 auto 40px;
-      line-height: 1.5;
-    }
-
-    .section button {
-      background: transparent;
-      border: 2px solid green;
-      padding: 12px 24px;
-      font-size: 1rem;
-      color: green;
-      cursor: pointer;
-      transition: background 0.3s, color 0.3s;
-    }
-
-    .section button:hover {
-      background: green;
-      color: #fff;
-    }
-
-    @media (max-width: 768px) {
-      .menu-container {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 40px;
-        padding: 40px 20px;
-      }
-    }
-
-    @media (max-width: 480px) {
-      .menu-container {
-        grid-template-columns: 1fr;
-        padding: 30px 10px;
-      }
-    }
-  </style>
-  <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+        @media (max-width: 768px) {
+            .container {
+                grid-template-columns: 1fr;
+                gap: 2rem;
+            }
+        }
+    </style>
 </head>
 <body>
-  <div class="menu-container">
-    <div class="menu-item">
-      <div class="circle-icon">
-        <img src="./icons/pizza.png" alt="Pizza">
-      </div>
-      <div class="menu-title">Pizza</div>
+    <div class="container">
+        <div class="images">
+            <img src="https://images.unsplash.com/photo-1578985545062-69928b1d9587?auto=format&fit=crop&w=600&q=80" alt="Pastries">
+            <div class="floating-element"></div>
+            <div class="image-title">Delicious Pastries</div>
+        </div>
+
+        <div class="images">
+            <img src="https://images.unsplash.com/photo-1509440159596-0249088772ff?auto=format&fit=crop&w=600&q=80" alt="Fresh Bread">
+            <div class="floating-element"></div>
+            <div class="image-title">Fresh Bread</div>
+        </div>
+
+        <div class="images">
+            <img src="https://images.unsplash.com/photo-1464349095431-e9a21285b5f3?auto=format&fit=crop&w=600&q=80" alt="Custom Cakes">
+            <div class="floating-element"></div>
+            <div class="image-title">Custom Cakes</div>
+        </div>
+
+        <div class="images">
+            <img src="https://images.unsplash.com/photo-1571115764595-644a1f56a55c?auto=format&fit=crop&w=600&q=80" alt="Cookies">
+            <div class="floating-element"></div>
+            <div class="image-title">Homemade Cookies</div>
+        </div>
     </div>
 
-    <div class="menu-item">
-      <div class="circle-icon">
-        <img src="./icons/burger.png" alt="Burger">
-      </div>
-      <div class="menu-title">Burger</div>
-    </div>
+    <script>
+        // Select all images using querySelectorAll('.images')
+        const imageElements = document.querySelectorAll('.images');
 
-    <div class="menu-item">
-      <div class="circle-icon">
-        <img src="./icons/wrap.png" alt="Wraps">
-      </div>
-      <div class="menu-title">Wraps & Sandwich</div>
-    </div>
+        imageElements.forEach(imageElement => {
+            const img = imageElement.querySelector('img');
+            const floatingElement = imageElement.querySelector('.floating-element');
+            const title = imageElement.querySelector('.image-title');
 
-    <div class="menu-item">
-      <div class="circle-icon">
-        <img src="./icons/juice.png" alt="Juice">
-      </div>
-      <div class="menu-title">Juice & Mocktail</div>
-    </div>
+            imageElement.addEventListener('mousemove', (e) => {
+                const rect = imageElement.getBoundingClientRect();
+                const x = (e.clientX - rect.left - rect.width / 2) / 15;
+                const y = (e.clientY - rect.top - rect.height / 2) / 15;
 
-    <div class="menu-item">
-      <div class="circle-icon">
-        <img src="./icons/icecream.png" alt="Ice Cream">
-      </div>
-      <div class="menu-title">Ice Cream</div>
-    </div>
+                // 3D tilt effect for the main container
+                imageElement.style.transform = `perspective(1000px) rotateY(${x}deg) rotateX(${-y}deg) translateZ(30px)`;
+                
+                // Move floating element in opposite direction
+                if (floatingElement) {
+                    floatingElement.style.transform = `translate(${-x}px, ${-y}px) rotate(${x * 2}deg)`;
+                }
 
-    <div class="menu-item">
-      <div class="circle-icon">
-        <img src="./icons/shake.png" alt="Shake">
-      </div>
-      <div class="menu-title">Shake</div>
-    </div>
-  </div>
+                // Slight movement for title
+                if (title) {
+                    title.style.transform = `translateX(-50%) translateY(${y * 0.5}px)`;
+                }
+            });
 
-  <div class="section">
-    <h2>COFFEE MENU</h2>
-    <p>“One of the very nicest things about life is the way we must regularly stop whatever it is we are doing and devote our attention to eating.” – LUCIANO PAVAROTTI</p>
-    <button>VIEW FULL MENU</button>
-  </div>
+            imageElement.addEventListener('mouseleave', () => {
+                // Reset all transforms
+                imageElement.style.transform = 'perspective(1000px) rotateY(0deg) rotateX(0deg) translateZ(0px)';
+                
+                if (floatingElement) {
+                    floatingElement.style.transform = 'translate(0px, 0px) rotate(0deg)';
+                }
+
+                if (title) {
+                    title.style.transform = 'translateX(-50%) translateY(0px)';
+                }
+            });
+
+            // Faster transition on hover
+            imageElement.addEventListener('mouseenter', () => {
+                imageElement.style.transition = 'transform 0.1s ease';
+                if (floatingElement) {
+                    floatingElement.style.transition = 'transform 0.1s ease';
+                }
+                if (title) {
+                    title.style.transition = 'transform 0.1s ease';
+                }
+            });
+
+            imageElement.addEventListener('mouseleave', () => {
+                imageElement.style.transition = 'transform 0.3s ease';
+                if (floatingElement) {
+                    floatingElement.style.transition = 'transform 0.3s ease';
+                }
+                if (title) {
+                    title.style.transition = 'transform 0.3s ease';
+                }
+            });
+        });
+
+        console.log(`Found ${imageElements.length} images with class 'images'`);
+    </script>
 </body>
 </html>
